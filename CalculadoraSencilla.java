@@ -1,3 +1,5 @@
+# Github: https://github.com/Lucased12
+
 import java.util.Scanner;
 public class CalculadoraSencilla {
 
